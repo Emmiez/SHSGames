@@ -4,7 +4,7 @@
 <h1 align="center">SHS Games</h1>
 
 
-<a href="https://heroku.com/deploy?template=https://github.com/Emmiez/SHSGames" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/heroku.svg?raw" width="140" height="30"><img></a>
+<a href="https://heroku.com/deploy=https://github.com/Emmiez/SHSGames" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/heroku.svg?raw" width="140" height="30"><img></a>
 &nbsp;
 
 ---
